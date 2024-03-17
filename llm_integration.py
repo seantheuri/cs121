@@ -178,7 +178,7 @@ Now, analyze the following user input and identify the intent.
 
 
 def process_natural_language_query(user_input, user_session, system_prompt=system_prompt):
-    openai.api_key = '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'
+    openai.api_key = 'OPENAI_API_KEY'
     
     messages = [
         {"role": "system", "content": system_prompt},
