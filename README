@@ -48,22 +48,20 @@ The directory structure:
 
 
 food-delivery-app/
-├── csv_files/
-│   ├── MenuItems.csv
-│   ├── OrderDetails.csv
-│   ├── Orders.csv
-│   ├── Payments.csv
-│   ├── Ratings.csv
-│   ├── Restaurants.csv
-│   ├── RestaurantTags.csv
-│   ├── Tags.csv
-│   └── Users.csv
-├── sql_files/
-│   ├── setup.sql
-│   ├── routines.sql
-│   ├── load_data.sql
-│   ├── password_setup.sql
-│   └── queries.sql
+├── MenuItems.csv
+├── OrderDetails.csv
+├── Orders.csv
+├── Payments.csv
+├── Ratings.csv
+├── Restaurants.csv
+├── RestaurantTags.csv
+├── Tags.csv
+└── Users.csv
+├── setup.sql
+├── routines.sql
+├── load_data.sql
+├── password_setup.sql
+└── queries.sql
 ├── admin.py
 ├── customers.py
 ├── db.py
