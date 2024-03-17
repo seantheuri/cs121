@@ -7,7 +7,7 @@ def create_connection():
         connection = mysql.connector.connect(
             host='localhost',        
             user='root',    
-            password='@cloudx=14', 
+            password='password', 
             database='cs121'
         )
     except Error as e:
