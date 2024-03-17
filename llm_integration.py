@@ -3,6 +3,7 @@ import re
 import restaurants
 import orders
 import customers
+import os
 
 system_prompt = """
 You are a helpful assistant for a food delivery app. Your task is to understand the user's requests and map them to specific intents. Below are the possible intents you need to recognize:
@@ -177,7 +178,7 @@ Now, analyze the following user input and identify the intent.
 
 
 def process_natural_language_query(user_input, user_session, system_prompt=system_prompt):
-    openai.api_key = "OPENAI_API_KEY"
+    openai.api_key = os.getenv('OPENAI_API_KEY')
     
     messages = [
         {"role": "system", "content": system_prompt},

@@ -2,8 +2,10 @@ import csv
 import random
 from faker import Faker
 import openai
+import os
 
 faker = Faker()
+
 
 
 with open('users.csv', 'w', newline='') as file:
@@ -61,7 +63,7 @@ user_ids = range(1, 101)
 
 
 def generate_text(prompt, tokens):
-    openai.api_key = "OPENAI_API_KEY"
+    openai.api_key = os.getenv('OPENAI_API_KEY')
     
     messages = [
         {"role": "system", "content": prompt},
