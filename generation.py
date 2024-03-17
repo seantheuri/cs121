@@ -63,7 +63,7 @@ user_ids = range(1, 101)
 
 
 def generate_text(prompt, tokens):
-    openai.api_key = os.getenv('OPENAI_API_KEY')
+    openai.api_key = "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"
     
     messages = [
         {"role": "system", "content": prompt},
