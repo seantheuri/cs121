@@ -1,0 +1,51 @@
+RestaurantID,Name,Address,Rating,IsActive,OwnerID
+1,Parker PLC,"35771 Boyle Crossroad, Smithfort, AS 22938",3.11,1,93
+2,"Little, Bautista and Taylor","867 Marshall Vista Suite 320, West John, OK 49157",3.31,0,42
+3,Hall Group,"0854 Mcdonald Inlet, Chapmanfurt, MP 64613",3.3,1,38
+4,Craig-Roberts,"91797 Hernandez Curve Suite 129, Dunlapfurt, TX 42890",1.17,1,37
+5,"Lee, Ball and Mays","5928 Ashley Islands Suite 678, East Mitchell, MI 92115",4.97,1,80
+6,Morris-Reed,"8795 Marc Wells, New Megan, MH 71177",4.27,0,81
+7,Wall-Hernandez,"2194 Wright Manor, Riddleberg, MS 00885",1.31,0,71
+8,Fleming-Roberts,"31591 Collins Skyway, Diazburgh, MA 23940",4.07,1,36
+9,"Becker, Santana and Williamson","2713 Carter Rapid Suite 602, South Monicashire, MH 66062",2.76,0,38
+10,Miller Group,"9197 Nash Valleys Suite 625, North Davidmouth, ID 48028",2.37,0,33
+11,"Santiago, Williams and Hill","4231 Miller Hill Suite 211, Rogersville, VI 16834",1.77,1,58
+12,Walker Inc,"0422 Peggy Locks Apt. 230, Ramirezfurt, DE 40605",2.72,0,69
+13,Marsh-Monroe,"Unit 0814 Box 9510, DPO AE 39719",3.07,0,47
+14,"Shaw, Barton and Day","11308 Theresa Drive Suite 691, Spencemouth, AL 30763",3.56,1,19
+15,Poole Inc,"93020 Johnson Ville, Wellsbury, OH 53606",3.04,0,9
+16,Sanders Ltd,"265 Lee Views Apt. 568, Port Joshua, MP 30364",3.99,1,66
+17,Taylor-Shepard,"61342 Patricia Pines Apt. 955, North Danielland, MI 82781",2.35,1,63
+18,Webb-Johnson,"68925 Cherry Ways Apt. 092, East Shawn, CA 53399",3.91,0,64
+19,"Cox, Jackson and Williams","117 Brooks Ridges, New Jamesview, MH 10859",2.33,0,21
+20,"White, Gonzalez and Kim","88725 Mosley Mission Apt. 814, Derrickfort, NV 61547",3.41,1,47
+21,Welch Group,"PSC 4498, Box 2373, APO AE 38978",4.52,1,67
+22,Rosales-Smith,"USNS King, FPO AP 47076",4.98,0,89
+23,"Hudson, Hill and Pena","72069 Jason Run, Derekville, WI 58091",1.85,0,35
+24,Thompson-Cummings,"9435 Stephanie Burg, Martinland, IL 71153",4.84,0,95
+25,Harmon Inc,"0737 Burton Glen, West Nathanhaven, MN 71838",1.49,0,16
+26,Ramos LLC,"54325 Andrea Plains Apt. 585, South Jasonton, VA 26539",2.33,1,41
+27,"Collins, Peterson and Schultz","2984 Justin Ford, Catherineport, CA 44384",4.91,0,32
+28,Hahn-Contreras,"47914 Paula Islands, Dennisport, ME 88797",4.13,0,31
+29,"Torres, Miller and Mcintosh","093 Montgomery Inlet, Michaelberg, VA 27753",3.54,1,20
+30,Bailey and Sons,"44738 Pamela Trace, West Toni, TX 05635",3.37,0,88
+31,"Lyons, Snyder and Pugh","2118 Todd Plain Apt. 972, Jessicahaven, AK 68133",1.99,0,44
+32,"Lewis, Hernandez and Fernandez","9688 Hall Circles Apt. 788, Port Melissaberg, MP 00949",2.76,1,6
+33,Hughes-Scott,"9377 Ralph Burg, Port Angelicamouth, NV 84183",3.15,1,26
+34,Lee Ltd,"740 Susan Forges, Jacquelinestad, TX 81047",1.23,0,96
+35,Whitehead Ltd,"8439 Kim Squares Suite 761, South Josephfurt, PR 68222",2.91,0,96
+36,Reed PLC,"403 Reed Turnpike, East Chad, NJ 59855",4.53,1,1
+37,Mcgee Group,"2633 Jesus Station, East Patriciaton, OR 59656",2.0,0,45
+38,Wright-Elliott,"7210 Robert View, Michaelberg, CT 61185",1.18,1,81
+39,Cohen-Phillips,"423 Martinez Road Apt. 163, Markton, VI 56410",1.64,1,21
+40,"Pham, Hughes and Williams","161 John Viaduct, New Joseph, NY 10850",2.31,0,16
+41,Henry-Harmon,"579 Hayes Run Apt. 653, Port Brandy, NJ 66048",3.05,1,58
+42,Jacobson-Moore,"08826 Audrey Mall Apt. 371, Mendozaport, CO 78197",4.4,0,88
+43,"Williams, Moore and Hartman","791 Caroline Grove Apt. 089, Gutierrezland, WI 98721",4.72,1,53
+44,Peters-Johnson,"665 Gross Grove, Murrayhaven, NE 21996",2.54,1,18
+45,Willis Ltd,"82946 Chung Tunnel Suite 594, Lake Katiefort, MA 51245",3.5,0,53
+46,Bond and Sons,"086 Chavez Crossroad Suite 488, New Danamouth, NH 63547",3.45,1,8
+47,Hall Ltd,"812 Moreno Valleys Apt. 454, Nicoleport, WY 49966",3.63,1,81
+48,Coleman-Davis,"7672 Delgado Canyon, Shanebury, CT 28681",3.58,0,21
+49,Harper Ltd,"2538 Miller Pass Apt. 239, South Karenchester, MO 40029",3.75,0,96
+50,Powers-Young,"037 Tiffany Ranch Apt. 656, Ashleyfurt, PW 80587",4.47,0,16

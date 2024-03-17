@@ -1,0 +1,166 @@
+# Food Delivery Application
+
+Welcome to the Food Delivery Application! This application is my small project just looking into how future food delivery apps would work considering the latest advancments in technolog and it's designed to simulate the process of ordering food online, tracking deliveries, managing inventory, and providing a user-friendly as close as possible :P
+
+## Table of Contents
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Directory Structure](#directory-structure)
+- [Getting Started](#getting-started)
+  - [Setting Up the Database](#setting-up-the-database)
+  - [Running the Application](#running-the-application)
+- [Usage](#usage)
+  - [Customer Interface](#customer-interface)
+  - [Driver Interface](#driver-interface)
+  - [Restaurant Manager Interface](#restaurant-manager-interface)
+  - [Platform Administrator Interface](#platform-administrator-interface)
+- [Testing](#testing)
+- [API Keys](#api-keys)
+
+## Prerequisites
+Before running the Food Delivery Application, ensure that you have the following prerequisites installed:
+
+- Python 3
+
+- MySQL
+
+- OpenAI API Key
+
+## Installation
+
+1. Install the required Python packages:
+   pip install mysql-connector-python openai
+
+2. Set up the MySQL database (see [Setting Up the Database](#setting-up-the-database)).
+
+3. Update the database connection details in the `db.py` file:
+   connection = mysql.connector.connect(
+       host='localhost',
+       user='your_username',
+       password='your_password',
+       database='your_database_name'
+   )
+
+4. Get an OpenAI API key (see [API Keys](#api-keys)).
+
+## Directory Structure
+The directory structure:
+
+
+food-delivery-app/
+├── csv_files/
+│   ├── MenuItems.csv
+│   ├── OrderDetails.csv
+│   ├── Orders.csv
+│   ├── Payments.csv
+│   ├── Ratings.csv
+│   ├── Restaurants.csv
+│   ├── RestaurantTags.csv
+│   ├── Tags.csv
+│   └── Users.csv
+├── sql_files/
+│   ├── setup.sql
+│   ├── routines.sql
+│   ├── load_data.sql
+│   ├── password_setup.sql
+│   └── queries.sql
+├── admin.py
+├── customers.py
+├── db.py
+├── drivers.py
+├── llm_integration.py
+├── main.py
+├── orders.py
+├── passwords.py
+├── ratings.py
+├── restaurants.py
+└── users.py
+
+
+- The csv_files/ directory contains the CSV files used to load initial data into the database.
+
+- The sql_files/ directory contains the SQL files for setting up the database, creating routines, loading data, setting up passwords, and testing queries.
+
+- The .py files contain the Python code for different modules of the application.
+
+## Getting Started
+
+### Setting Up the Database
+1. Open a terminal and log in to MySQL with the following command:
+
+   mysql -u your_username -p --local-infile=1
+
+2. Create a new database for the Food Delivery Application:
+
+   CREATE DATABASE your_database_name;
+
+3. Use the newly created database:
+
+   USE your_database_name;
+
+4. Run the SQL files in the following order to set up the database:
+
+   source sql_files/setup.sql;
+   source sql_files/load_data.sql;
+   source sql_files/routines.sql;
+   source sql_files/password_setup.sql;
+
+
+5. Run the sql_files/queries.sql file to test sample queries:
+   source sql_files/queries.sql;
+
+### Running the Application
+
+1. Open a terminal and navigate to the food-delivery-app/ directory.
+
+2. Run the `main.py` file:
+
+   python main.py
+  
+
+
+3. Follow the on-screen instructions to interact with the application.
+
+
+### Customer Interface
+
+- Browse restaurants and menu items
+- Place orders
+- Make payments
+- Rate restaurants and drivers
+- Update user information
+
+### Driver Interface
+
+- View available delivery jobs
+- Accept orders
+- Update delivery status
+- View ratings and feedback
+
+### Restaurant Manager Interface
+
+- Manage restaurant profiles
+- Update menu items and pricing
+- View orders and manage promotions
+- Respond to customer ratings
+
+### Platform Administrator Interface
+
+- Manage user accounts
+- Oversee the database
+- Ensure smooth operation of the platform
+
+## Testing
+
+The `sql_files/queries.sql` file contains sample queries that can be used to test the functionality of the Application.
+
+## API Keys
+
+
+There is currently an API Key inserted in the Food Delivery Application, this is set to stop working on 3/25/2024 after this date to use the OpenAI API for natural language processing follow these steps:
+
+1. Sign up for an account at [OpenAI](https://www.openai.com/) and generate an API key from the OpenAI dashboard.
+
+2. Replace the placeholder API key in the llm_integration.py file with your actual API key:
+
+   openai.api_key = "YOUR_API_KEY"

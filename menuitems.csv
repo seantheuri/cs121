@@ -1,0 +1,501 @@
+MenuItemID,RestaurantID,Name,Description,Price
+1,6,Spicy Shrimp Sc,Juicy shrimp coated in spicy sauce at Spicy Shrimp Sc.,21.87
+2,29,Spicy Mango Tof,Tangy and flavorful tofu dish with a spicy mango sauce.,18.07
+3,45,Tropical Tuna T,Grilled tuna steak with a tropical marinade and a side of jasmine rice,39.35
+4,48,Berry Balsamic Steak,Grilled steak drizzled with a sweet and tangy berry bals,10.51
+5,42,Cheesy Broccoli B,Broccoli florets smothered in a rich and gooey cheese sauce,19.34
+6,29,Spicy Mango Salmon Bowl,Spicy Mango Salmon Bowl featuring grilled salmon topped with a zesty mango sauce,7.49
+7,48,Spicy Shrimp T,Spicy shrimp tacos with a zesty kick and delicious toppings.,6.15
+8,7,Shrimp Curry Bowl,Tender shrimp cooked in a flavorful curry sauce served over a bed of rice,21.83
+9,11,Spicy Mango Pulled,"Sweet and tangy mango combined with spicy flavors in tender pulled meat, creating",29.46
+10,21,Tropical Mango Salad,"A refreshing salad with juicy mango chunks, mixed greens, and a tangy",25.69
+11,10,Potato Chip Chicken T,Crispy chicken coated in crushed potato chips for a satisfying crunch.,45.37
+12,11,Sushi Burrito Bowl,"Japanese-inspired bowl featuring sushi rice, fresh fish, and colorful vegetables, served",29.4
+13,20,Spicy Sriracha,Spicy Sriracha chicken wings with a fiery kick and tangy flavor,44.55
+14,16,Savory Shrimp,Succulent shrimp cooked with savory spices and herbs.,24.51
+15,3,Honey Sriracha,Spicy honey sriracha-glazed chicken wings with a sweet and tang,9.17
+16,40,Spicy Mango Shrimp,Spicy mango shrimp featuring succulent shrimp cooked in a fiery mango sauce.,9.0
+17,37,Szechuan Shrimp,Spicy Szechuan shrimp stir-fried with vegetables and savory sauce.,28.48
+18,22,Shrimp Taco Slam,Tasty shrimp tacos with a variety of flavorful toppings.,12.56
+19,38,Blueberry Balsamic,Grilled chicken topped with a tangy blueberry balsamic glaze,34.3
+20,45,Quinoa Power Bowl,Nutritious quinoa power bowl filled with protein-packed ingredients and fresh veggies,44.64
+21,19,Smoked Gouda,Creamy smoked Gouda cheese served with crackers and fruit.,24.8
+22,22,Truffle Parmesan Ris,Creamy truffle-infused risotto topped with savory Parmesan cheese.,22.03
+23,23,Seared Paprika Til,Seared Paprika Til: Tilapia fillet cooked with a flavorful pap,9.21
+24,2,Spicy Mango Chicken Curry,Tender chicken cooked in a spicy mango-infused curry sauce.,5.55
+25,50,Mango Tango Chicken Salad,A refreshing chicken salad with juicy mango slices and a zesty tango dressing,28.18
+26,45,Maple Glazed Salmon,Salmon fillet glazed with maple syrup for a sweet and savory flavor profile,10.14
+27,20,Sushi Burrito Bowl,Sushi Burrito Bowl - Fresh sushi ingredients served in a convenient bowl for,42.59
+28,39,Quinoa Power Bowl,"Healthy and satisfying Quinoa Power Bowl packed with colorful vegetables, protein-rich qu",19.92
+29,6,Spicy Pulled Pork,Spicy Pulled Pork: Tender shredded pork marinated in a spicy sauce,42.62
+30,35,Coconut Curry Quinoa,A flavorful quinoa dish with creamy coconut curry sauce.,41.06
+31,40,Spicy Mango Shrimp,Shrimp cooked in a spicy mango sauce.,37.15
+32,33,Crispy Avocado,Crispy Avocado: Fresh avocado slices coated in a crunchy breading,28.01
+33,41,Mango Coconut Curry Bow,"A tropical blend of mango, coconut, and curry sauce served over rice in",28.54
+34,32,Spicy Honey Glazed,"Sweet and spicy, the Spicy Honey Glazed dish features succulent meat",23.54
+35,49,Spicy Mango Shrimp,Delicious shrimp cooked in a spicy mango sauce.,20.71
+36,50,Spicy Sriracha,Spicy Sriracha menu item featuring crispy chicken coated in a fiery Sr,29.54
+37,4,Coconut Curry Noodle,Savory noodles infused with coconut curry sauce.,16.75
+38,10,Spicy Chipotle Sh,"Shrimp marinated in a spicy chipotle sauce, grilled to perfection.",9.34
+39,3,Crispy Dynamite,"Spicy jalapeño poppers wrapped in crunchy bacon, known as Cr",48.56
+40,47,Crispy Pork Belly,Crispy Pork Belly: Juicy pork belly with a crispy exterior and,29.14
+41,21,Coconut Curry Laska,Coconut curry laksa: A fragrant Malaysian noodle soup with a,14.83
+42,24,Spicy Szechuan,Spicy Szechuan dish with bold flavors and fiery chili peppers.,40.3
+43,7,Seafood Ceviche,"Refreshing seafood ceviche made with fresh fish, shrimp, and tangy",27.21
+44,29,Crispy Jalap,"Spicy jalapeño slices coated in crispy batter, perfect for snacking",9.14
+45,4,Spicy Thai Tof,Spicy Thai Tof is a flavorful dish featuring tofu marinated in traditional,38.44
+46,26,Shrimp Ravioli,Delicious shrimp-filled ravioli served with a savory sauce.,28.93
+47,8,Spicy Masala T,Indian-inspired dish featuring spiced masala tea.,48.52
+48,21,Spicy Mango Shrimp,Delicious shrimp cooked in a spicy mango sauce.,26.68
+49,12,Spicy Shrimp Ram,Delicious ramen noodles served with spicy shrimp.,26.38
+50,50,Spicy Szechuan,"Spicy Szechuan dish featuring bold flavors, vibrant spices, and tender",31.31
+51,4,Sizzling Pineapple Stir,A tropical stir-fry featuring sizzling pineapple with a flavorful blend of ingredients,43.98
+52,26,Coconut Curry Ramen,Asian-inspired dish featuring ramen noodles in a flavorful coconut curry broth.,27.41
+53,23,Spicy Mango Tof,Tangy tofu dish bursting with spicy mango flavors.,14.77
+54,34,Seafood Fettucc,Rich and creamy fettuccine pasta with a variety of seafood.,26.62
+55,7,Honey Glazed Salmon,Grilled salmon fillet coated in a sweet and sticky honey glaze.,31.16
+56,42,Spicy Shrimp T,Juicy shrimp seasoned with spicy flavors and served with a tangy sauce.,14.95
+57,38,Savory Mushroom Ris,Risotto infused with savory mushrooms and flavorful seasonings.,20.96
+58,1,Spicy Mango Shrimp,Shrimp cooked in a spicy mango sauce for a tropical and tangy flavor,6.45
+59,45,Beefy Bacon Bom,"Juicy beef patty topped with crispy bacon and a flavorful sauce, served",36.37
+60,4,Teriyaki Pineapple,Grilled teriyaki pineapple skewers with a savory sweet glaze.,16.87
+61,11,Savory Truffle,A luxurious dish with earthy truffle flavors and savory ingredients.,33.63
+62,36,Basil Pesto Salmon,Grilled salmon fillet topped with basil pesto sauce.,18.29
+63,27,Spicy Mango Chicken Bowl,Spicy Mango Chicken Bowl: Savory chicken with a zesty mango sauce,18.66
+64,16,Spicy Sriracha,Spicy Sriracha dish with a fiery sauce and choice of protein.,45.45
+65,15,Spicy Mango Shrimp,Delicious shrimp cooked in a spicy mango sauce.,42.09
+66,7,Pesto Shrimp Lingu,Linguine pasta tossed in a flavorful pesto sauce with succulent shrimp,32.63
+67,19,Lemon Garlic Shrimp,Delicious shrimp cooked with zesty lemon and garlic.,33.21
+68,28,Chili Mango Chicken Salad,Spicy chili mango chicken salad with mixed greens and a zesty dressing.,21.55
+69,22,Spicy Shrimp T,Spicy shrimp tossed in a tangy sauce with a hint of heat.,46.82
+70,36,Crispy Salmon S,Crispy salmon fillet served with a side of seasoned vegetables.,13.84
+71,18,Spicy Maple Glazed,A dish featuring a spicy maple glaze for a flavorful and zesty twist,20.04
+72,16,Spicy Shrimp T,Spicy shrimp served with a tantalizing sauce and a kick of heat.,26.6
+73,30,Spicy Cajun Sh,Spicy Cajun shrimp cooked to perfection with a burst of zesty flavors,29.78
+74,44,Coconut Curry Bowls,"Coconut Curry Bowls - A flavorful dish made with coconut milk, curry",47.36
+75,33,Spicy Mango Salmon salad,A flavorful salad featuring spicy mango and tender salmon.,19.92
+76,45,Berry Cheesecake Par,Decadent cheesecake with a delightful berry topping.,38.52
+77,30,Lemon Garlic Shrimp,Tender shrimp sautéed in a flavorful lemon and garlic sauce.,6.16
+78,4,Spicy Shrimp T,Tender and succulent shrimp cooked in a fiery and flavor-packed spicy sauce,34.69
+79,7,Maple Bacon Pancake,Delicious pancakes topped with crispy bacon drizzled with maple syrup.,5.94
+80,18,Coconut Curry Noodle,Noodles served in a rich coconut curry sauce with flavorful spices.,26.66
+81,30,Spicy Thai Noodle,Spicy Thai Noodles featuring a flavorful mix of traditional Thai spices and tender,9.68
+82,28,Spicy Honey Glazed,A flavorful dish featuring spicy honey glazed proteins for a delicious sweet and spicy taste,23.68
+83,25,Mango Tango Chicken Salad,Fresh salad featuring succulent chicken mixed with tangy mango and zesty t,25.84
+84,18,Spicy Mango Shrimp,Juicy shrimp cooked in a spicy mango sauce for a tropical and flavorful dish,41.12
+85,49,Coconut Curry Quinoa,Coconut Curry Quinoa: a flavorful dish featuring quinoa cooked in coconut,6.79
+86,24,Savory Shrimp,Flavorful shrimp sautéed in savory spices and herbs.,18.19
+87,7,Spicy Pineapple Pul,Spicy Pineapple Pul: A flavorful dish featuring a blend of spic,30.09
+88,41,Spicy Chorizo,Sizzling Spicy Chorizo served with a side of tangy salsa,31.85
+89,49,Citrus Glazed Salmon,Grilled salmon fillet topped with a zesty citrus glaze.,21.6
+90,48,Spicy Mango Chicken T,Succulent chicken cooked in a spicy mango sauce for a flavorful dish.,24.49
+91,35,Mango Tango Chicken Wrap,"Succulent chicken, fresh mango, and tangy salsa wrapped in a",14.61
+92,25,Spicy Maple Glazed,"Savory dish with a spicy maple glaze, adding a sweet and",43.3
+93,4,Spicy Ramen Bowl,"Spicy Ramen Bowl featuring bold flavors, tender noodles, and an aromatic",39.82
+94,24,Spicy Mango Shrimp,Succulent shrimp sautéed with spicy mango sauce.,41.54
+95,47,Tropical Shrimp T,Grilled shrimp served with tropical flavors and a tangy sauce.,46.92
+96,37,Spicy Mango Salmon Salad,"Salmon salad with a kick, featuring spicy mango flavors.",12.74
+97,48,Savory Pesto,Pasta dish with vibrant pesto sauce and flavorful herbs.,26.56
+98,38,Avocado Mango Salad,"Refreshing salad featuring ripe avocados, sweet mangoes, and a z",9.36
+99,20,Spicy Tofu,Spicy tofu stir-fry with a blend of fresh vegetables and fiery season,41.6
+100,13,Smoky Maple Bacon Mac,Creamy macaroni and cheese infused with smoky maple flavor and crispy,46.82
+101,26,Spicy Mango Shrimp,Tender shrimp cooked with spicy mango sauce.,20.51
+102,2,Spicy Chorizo,"Savory chorizo sausage with a kick of spice, perfect for those",28.07
+103,27,Mango Tango Chicken Salad,"Delicious salad with juicy chicken, mango slices, and a zesty t",12.45
+104,21,Teriyaki Pineapple,Grilled chicken glazed in sweet teriyaki sauce served with caramelized pineapple,37.67
+105,35,Coconut Curry Quinoa,"Quinoa cooked in rich coconut curry sauce, perfect for a flavorful and wholesome",37.73
+106,26,Spicy Mango Chicken Wrap,"Tender grilled chicken marinated in spicy mango sauce, wrapped in a soft",26.23
+107,18,Savory Maple Gl,Sweet and tangy Savory Maple Glazed salmon fillet served with grilled,36.88
+108,23,Spicy Avocado Q,A zesty avocado-based dish with a spicy kick.,14.2
+109,7,Quinoa Crunch Bowl,Nutritious quinoa bowl topped with crunchy vegetables and a zesty dressing,7.27
+110,35,Coconut Curry Bowl,A savory bowl featuring coconut-infused curry with tender vegetables and your choice of,33.8
+111,18,Spicy Teriyaki,Spicy Teriyaki dish featuring grilled meat in a tangy and z,25.61
+112,45,Savory Mushroom Ris,A hearty dish featuring tender risotto infused with savory mushrooms.,8.33
+113,7,Spicy Mango Chicken T,Tender chicken cooked in a spicy mango sauce for a flavorful dish.,5.69
+114,2,Mango Habanero,Spicy-sweet Mango Habanero wings with a tangy kick.,17.13
+115,20,Spicy Shrimp T,Spicy shrimp served with a tangy sauce and savory spices.,18.71
+116,49,Spicy Pineapple Thai,Spicy Pineapple Thai: A zesty dish combining the heat of spices,47.55
+117,47,Coconut Curry Ramen,Ramen noodles served in a coconut curry broth.,49.09
+118,33,Spicy Maple Pork Belly,"Delicious pork belly, coated in a spicy maple glaze.",46.0
+119,37,Quinoa Fiesta Bowl,"A vibrant bowl packed with quinoa, black beans, corn, avocado,",40.32
+120,20,Spicy Mango Tof,Tasty tofu dish with a spicy mango sauce.,26.26
+121,40,Maple Bacon Macaron,Unique macaron filled with a blend of sweet maple essence and crispy bacon pieces,19.14
+122,17,Chili Lime Shrimp,A zesty blend of succulent shrimp marinated in chili and lime.,48.75
+123,9,Honey Sriracha,"Spicy and sweet Honey Sriracha chicken wings, glazed to perfection.",6.68
+124,31,Coconut Curry Bowl,"A warm and comforting bowl filled with fragrant coconut curry, vegetables, and",34.36
+125,33,Savory Shrimp,Juicy shrimp seasoned with savory spices and grilled to perfection.,7.99
+126,6,Quinoa Fiesta Bowl,Nutritious quinoa dish featuring a medley of vibrant vegetables and flavorful,43.17
+127,19,Coconut Curry Quinoa,Quinoa cooked in a flavorful coconut curry sauce.,47.47
+128,4,Pesto Quinoa Bowl,Healthy and flavorful quinoa bowl topped with fresh pesto sauce.,5.01
+129,29,Coconut Curry Shrimp,Juicy shrimp simmered in a flavorful coconut curry sauce.,44.56
+130,11,Berry Bliss Parfait,"Berry Bliss Parfait: Layers of fresh berries, creamy yogurt, and crunchy",26.12
+131,33,Truffle Mac n',Creamy macaroni and cheese infused with luxurious truffle flavor.,11.7
+132,49,Sushi Taco Twist,"A fusion dish featuring sushi ingredients like fish and rice, wrapped in a taco",23.35
+133,4,Spicy Maple Glazed,Sweet and spicy treat featuring a maple glaze with a kick.,23.24
+134,19,Teriyaki Tof,Grilled tofu marinated in a savory-sweet teriyaki sauce with,31.04
+135,16,Spicy Teriyaki,Grilled chicken marinated in a spicy teriyaki sauce.,44.93
+136,5,Spicy Sriracha,Spicy Sriracha dish featuring bold flavors and a fiery kick.,46.07
+137,31,Coconut Curry Bowls,"Coconut Curry Bowls featuring a flavorful blend of coconut milk, curry spices",31.39
+138,3,Spicy Shrimp T,Delicious spicy shrimp cooked with a special blend of seasonings.,25.69
+139,12,Coconut Curry Ramen,Coconut Curry Ramen featuring rich coconut broth infused with curry flavors and topped,35.93
+140,23,Mango Tango Tof,A tangy and savory tofu dish with a zesty mango sauce.,23.13
+141,10,Buffalo Blue Cheese T,"Crispy buffalo chicken wings tossed in tangy buffalo sauce, served with",24.0
+142,38,Crispy Tof,Crispy tofu dish with a golden outer layer and a flavorful seasoning.,38.85
+143,20,Spicy Mango Salmon,Grilled salmon topped with a zesty spicy mango glaze.,13.56
+144,15,Coconut Curry Shrimp,Delicious shrimp cooked in a flavorful coconut curry sauce.,20.29
+145,2,Spicy Mango Tango Sh,Shrimp dish featuring a spicy mango tango sauce for a tantalizing flavor,26.16
+146,50,Avocado BLT Wrap,"A flavorful wrap filled with avocado, crispy bacon, lettuce, and tomato.",10.82
+147,25,Spicy Ramen Bowl,"Spicy Ramen Bowl featuring a flavorful broth, chewy noodles, and",32.11
+148,9,Spicy Mango Shrimp,Shrimp cooked in a spicy mango sauce.,10.72
+149,11,Coconut Curry Bowl,Coconut Curry Bowl featuring fragrant coconut curry sauce with a blend of vegetables,47.13
+150,19,Avocado Pesto Pasta,Delicious pasta dish featuring avocado pesto sauce.,35.63
+151,2,Spicy Honey Srir,Succulent chicken wings coated in a spicy honey Sriracha sauce.,8.37
+152,32,Spicy Mango Chicken T,"Savor the flavor with our Spicy Mango Chicken T, featuring juicy chicken",43.36
+153,48,Savory Pesto,Pasta with savory pesto sauce and a sprinkle of Parmesan cheese.,9.78
+154,28,Mango Pepperoni Pizza,Tangy mango slices paired with savory pepperoni on a delicious pizza crust,7.69
+155,23,Black Truffle Risotto,Creamy risotto infused with decadent black truffle.,43.38
+156,27,Coconut Curry Ramen,Ramen noodles in a fragrant coconut curry broth topped with vegetables and protein,45.05
+157,44,Spicy Shrimp Lingu,Shrimp Linguine with a spicy kick.,42.73
+158,47,Spicy Sriracha,Spicy Sriracha dish featuring juicy shrimp and a fiery chili garlic sauce,32.31
+159,25,Spicy Mango Shrimp,Shrimp cooked in a spicy mango sauce.,41.6
+160,2,Crispy Bals,Crispy Bals: Golden fried bites of tender chicken coated in a,46.53
+161,19,Spicy Mango Tof,Vegan dish featuring spicy tofu with a zesty mango glaze.,8.14
+162,18,Sriracha Pineapple,Tangy sriracha-infused stir-fried pineapple dish with a,43.84
+163,34,Spicy Mango Salmon,Succulent salmon fillet coated in a spicy mango glaze.,47.62
+164,5,Savory Brussels Spr,"Savory Brussels sprouts roasted with garlic, balsamic glaze",43.95
+165,39,Spicy Basil Pesto,A flavorful pasta dish with zesty basil pesto sauce and a hint of,40.95
+166,30,Sizzling Tofu,Sizzling Tofu stir-fried with vibrant vegetables and savory spices.,7.35
+167,11,Spicy Thai Noodle,Spicy Thai Noodles with a flavorful blend of traditional Thai spices and succ,6.04
+168,28,Pesto Portobello,Portobello mushrooms topped with flavorful pesto sauce.,18.6
+169,20,Shrimp Tempura T,Crispy shrimp tempura served with a tangy dipping sauce.,43.18
+170,30,Sizzling Coconut Shrimp,"Delicious shrimp coated in crispy coconut flakes, served sizzling hot.",49.23
+171,18,Spicy Teriyaki,Grilled teriyaki dish with a spicy kick and savory sauce.,26.35
+172,26,Tofu Taco Bowl,"Vegan taco bowl featuring flavorful tofu, mixed with a variety of toppings and",15.45
+173,33,Spicy Shrimp T,Succulent shrimp cooked in a spicy sauce.,46.43
+174,28,Smoked Salmon Wrap,"A delicious wrap filled with smoked salmon, cream cheese, and crisp vegetables.",19.49
+175,19,Spicy Mango Chicken Wr,Savory chicken wrapped in a spicy mango-infused sauce.,14.18
+176,46,Spicy Mango Shrimp,Shrimp marinated in a spicy mango sauce.,39.26
+177,40,Cheesy Jalapeno,Spicy jalapenos stuffed with melted cheese.,13.81
+178,47,Spicy Mango Chicken Wrap,Tender chicken marinated in spicy mango sauce wrapped in a tortilla.,23.61
+179,11,Coconut Curry Shrimp,Juicy shrimp cooked in a flavorful coconut curry sauce.,21.6
+180,44,Spicy Mango Shrimp,Tangy shrimp cooked with spicy mango sauce.,36.65
+181,12,Maple Glazed Salmon,Salmon glazed in a sweet maple sauce.,48.0
+182,50,Pesto Chicken Skew,Grilled chicken skewers marinated in savory pesto sauce.,30.45
+183,23,Beefy Mac &,Hearty macaroni and cheese topped with tender beef chunks.,26.85
+184,21,Spicy Taco Fusion,Spicy Taco Fusion: A delightful combination of Mexican and international flavors with a,40.78
+185,14,Spicy Mango Tof,A flavorful dish featuring spicy mango sauce over crispy tofu.,41.59
+186,5,Spicy Mango Shrimp,Shrimp cooked in a spicy mango sauce.,32.23
+187,34,Berry Bliss Bowl,A refreshing bowl combining various berries with granola and yogurt for a perfect balance,39.01
+188,14,Lemon Sage Salmon,Grilled salmon marinated in zesty lemon and aromatic sage.,11.16
+189,28,Spicy Mango Shrimp,Delicious shrimp cooked in a spicy mango sauce.,31.84
+190,40,Citrus Zoodle Bowl,"Refreshing citrus zoodle bowl with zucchini noodles, vibrant veggies, and a",34.19
+191,6,Coconut Curry Ramen,Ramen noodles in a coconut curry broth with flavorful spices and succulent toppings,16.22
+192,16,Smoky Chipotle Ch,Grilled chicken marinated in smoky chipotle peppers for a spicy and,24.73
+193,35,Spicy Mango Chicken Wrap,Tender chicken coated in spicy mango sauce wrapped in a soft tortilla.,48.56
+194,32,Crispy Avocado,Crispy Avocado: Avocado slices coated in a crispy batter and,16.47
+195,45,Smoked Gouda,"Savory grilled cheese sandwich with smoky Gouda cheese, on",22.2
+196,49,Spicy Jalapeño,Grilled burger topped with spicy jalapeños for an extra kick.,44.38
+197,36,Spicy Tofu,Spicy tofu stir-fry with vegetables and a zesty sauce.,6.99
+198,27,Basil Pesto Pasta,Classic Italian pasta dish featuring al dente noodles tossed in fragrant basil pest,18.17
+199,22,Spicy Sriracha,Chicken wings coated in a fiery Sriracha sauce with a zesty kick,13.27
+200,49,Spicy Maple Glazed,Grilled chicken wings coated in a sweet and spicy maple glaze.,36.01
+201,2,Coconut Curry Quinoa,Quinoa cooked in a flavorful coconut curry sauce.,37.22
+202,43,Spicy Mango Shrimp,Succulent shrimp cooked in a spicy mango sauce.,43.46
+203,36,Smoky Maple Bacon Panc,Fluffy pancakes infused with smoky maple flavor and crispy bacon pieces.,16.3
+204,14,Citrus Glazed Salmon,"Salmon fillet coated in a tangy citrus glaze, served with",9.62
+205,37,Spicy Mango Chicken Wrap,"Spicy Mango Chicken Wrap featuring tender chicken, spicy mango sauce, and fresh",12.94
+206,37,Spicy Tofu,Spicy tofu dish with a flavorful sauce and assorted vegetables.,23.0
+207,7,Spicy Mango Chicken T,Grilled chicken marinated in a spicy mango sauce.,16.76
+208,9,Spicy Mango Shrimp,Shrimp cooked in a spicy mango sauce for a flavorful twist on seafood.,12.39
+209,15,Spicy Jackfruit T,Spicy shredded jackfruit served with a kick in every bite.,43.93
+210,17,Spicy Sriracha,Spicy Sriracha dish featuring grilled shrimp and vegetables tossed in a fiery,33.32
+211,25,Spicy Tofu,Spicy tofu dish featuring crispy tofu cubes tossed in a zesty sauce with,19.04
+212,43,Crispy Avocado,Crispy Avocado: Delightful slices of avocado fried to perfection,37.4
+213,25,Spicy Mango Shrimp,Juicy shrimp sautéed with spicy mango sauce.,13.2
+214,25,Spicy Mango Shrimp,Grilled shrimp tossed in a spicy mango sauce for a tropical kick.,24.14
+215,14,Mango Tango Shrimp,Juicy shrimp marinated in a zesty mango tango sauce.,21.09
+216,38,Sizzling Seaweed,Crispy seaweed seasoned and served sizzling hot.,17.2
+217,19,Raspberry Glazed Salmon,Salmon fillet coated in a sweet and tangy raspberry glaze.,26.7
+218,48,Spicy Mango Shrimp,Succulent shrimp cooked in a spicy mango sauce.,33.64
+219,31,Spicy Sriracha,Spicy Sriracha dish featuring grilled shrimp coated in a fiery Srir,43.64
+220,26,Savory Mushroom P,"Delectable pasta dish with savory mushrooms and a rich, flavorful sauce.",23.71
+221,18,Basil Pesto Pasta,Pasta dish featuring basil pesto sauce tossed with al dente noodles.,24.89
+222,5,Beefy Pesto,Juicy beef topped with flavorful pesto sauce.,41.09
+223,11,Spicy Maple Glazed,Savory dish featuring a spicy maple glaze over your choice of protein,48.51
+224,20,Strawberry Bals,Savory salad featuring ripe strawberries and tangy balsamic dressing.,45.57
+225,28,Mango Tango Tacos,"Delicious tacos filled with juicy mango salsa and seasoned meat, creating a sweet",35.73
+226,49,Pesto Salmon Bowl,"Grilled salmon served over a bed of fluffy rice and fresh vegetables, topped",39.5
+227,49,Spicy Mango Shrimp,Succulent shrimp cooked in a spicy mango sauce.,43.05
+228,18,Smoky BBQ Pulled,"Slow-cooked pulled pork mixed with smoky BBQ sauce, perfect for sandwiches",27.39
+229,16,Spicy Teriyaki,Grilled teriyaki chicken with a spicy kick.,7.31
+230,11,Spicy Honey Glazed,Tender chicken wings coated in a spicy honey glaze.,16.33
+231,15,Spicy Sriracha,Savory grilled chicken topped with a fiery Sriracha sauce on a,22.85
+232,30,Black Truffle Risotto,Creamy risotto infused with the rich earthy flavor of black truffles,12.25
+233,28,Pesto Portobello,Grilled portobello mushroom topped with flavorful pesto sauce.,18.66
+234,28,Spicy Tofu,A flavorful dish featuring spicy tofu cooked with a blend of zesty seasonings,48.6
+235,39,Spicy Maple Glazed,Succulent chicken wings coated in a spicy maple glaze.,29.66
+236,44,Sesame Teriy,Sesame Teriyaki: A savory stir-fry dish packed with,46.07
+237,3,Spicy Avocado Wrap,Spicy Avocado Wrap featuring ripe avocado slices with a zesty kick.,32.06
+238,15,Beefy Nacho,"Hearty nachos loaded with seasoned beef and gooey cheese, topped with",22.04
+239,29,Maple Glazed Rib,Tender ribs coated in a sweet and sticky maple glaze.,17.91
+240,39,Spicy Pineapple Chicken,Tender chicken cooked with spicy seasoning and sweet pineapple chunks.,21.94
+241,50,Turmeric Glazed Salmon,Salmon fillet glazed with turmeric for a flavorful and vibrant twist.,36.64
+242,1,Sizzling Jalapeno,Spicy dish featuring jalapenos that are sautéed and served,42.84
+243,46,Pesto Portobello,Grilled portobello mushrooms topped with savory pesto sauce.,34.97
+244,20,Spicy Sriracha,Spicy Sriracha burger topped with melted cheese and crispy bacon.,43.69
+245,11,Spicy Mango Glazed,Tender chicken wings coated in a spicy mango glaze.,23.5
+246,8,Beetroot Quinoa,Nutritious beetroot quinoa salad with a zesty vinaig,6.72
+247,26,Shrimp Pesto Pasta,Pasta dish featuring succulent shrimp tossed in flavorful pesto sauce.,36.59
+248,26,Szechuan Beef Stir,Spicy Szechuan beef stir-fry tossed with vibrant veggies and a,49.3
+249,39,Coconut Curry Bowl,Coconut Curry Bowl featuring a fragrant coconut milk curry sauce with vegetables and,31.26
+250,13,Dragonfire Tacos,"Spicy tacos filled with tender grilled meats, fiery salsa, and zesty",34.52
+251,44,Savory Truffle,Delectable truffle-infused dish featuring savory ingredients and a rich flavor,37.42
+252,20,Maple Glazed Salmon,Salmon fillet coated in a delicious maple glaze.,43.96
+253,46,Spicy Mango Shrimp,Shrimp made with spicy mango sauce for sweetness with a kick.,47.85
+254,38,Crispy Truffle,Crispy Truffle: Decadent truffle-infused dish with,31.42
+255,40,Savory Maple Gl,A succulent grilled chicken breast drizzled with rich and sweet maple gl,10.05
+256,21,Shrimp Taco Bowl,"Shrimp Taco Bowl featuring succulent shrimp, seasoned rice, and vibrant toppings",5.47
+257,8,Crunchy Honey Garlic,Crispy chicken coated in a sweet and tangy honey garlic glaze,48.56
+258,3,Spicy Shrimp T,Tantalizing spicy shrimp dish cooked with a fiery kick and served with sav,24.45
+259,47,Smoky Maple Glazed,Grilled meat or vegetables coated in a sweet and smoky maple glaze,28.63
+260,39,Seafood Extravagan,"Seafood Extravagan: A delightful combination of fresh seafood, rich flavors",41.99
+261,11,Spicy Maple Glazed,Tender chicken wings coated in a spicy maple glaze.,16.0
+262,25,Coconut Curry Shrimp,Delicious shrimp cooked in a rich and fragrant coconut curry sauce.,31.16
+263,2,Spicy Mango BBQ T,Tender BBQ pork ribs glazed with a spicy mango sauce.,42.1
+264,14,Tofu Teriy,A vegetarian dish featuring tofu cooked in a savory teriyaki sauce.,40.62
+265,43,Spicy Mango Shrimp,Tender shrimp cooked with spicy mango sauce.,41.29
+266,31,Seafood Ramen Fusion,Savory seafood ramen with a flavorful fusion twist.,47.36
+267,31,Spicy Sriracha,Spicy Sriracha dish featuring grilled shrimp and a fiery sauce.,43.04
+268,14,Roasted Garlic Quinoa,"Quinoa flavored with roasted garlic, creating a savory and aromatic side dish.",28.12
+269,14,Spicy Mango Pulled,"Sweet and tangy mango mixed with spicy seasonings, paired with tender pulled",41.05
+270,47,Mango Tango Chicken Salad,Refreshing chicken salad loaded with juicy mango chunks and a tangy tango dressing,8.13
+271,24,Sizzling Teriyaki,Sizzling Teriyaki dish featuring tender pieces of meat or tofu coated in,9.63
+272,35,Spicy Shrimp T,"Spicy Shrimp T: Succulent shrimp with a kick of heat,",22.38
+273,25,Tofu Pad Thai,"Tofu Pad Thai featuring stir-fried rice noodles with tofu, vegetables",32.16
+274,38,Spicy Mango Shrimp,Succulent shrimp cooked in a spicy mango sauce.,42.16
+275,5,Gourmet Truffle Mac,Truffle Mac: Classic macaroni and cheese infused with gourmet truffle,10.2
+276,16,Dragon Fire Shrimp,Spicy shrimp sautéed with fiery dragon sauce.,36.14
+277,19,Spicy Szechuan,Spicy Szechuan dish featuring bold flavors with a kick of heat and,47.58
+278,41,Coconut Curry Bowl,"Vegetarian bowl with aromatic coconut curry sauce, mixed vegetables, and frag",23.98
+279,36,Mango Glazed Salmon,Grilled salmon coated in a sweet and tangy mango glaze.,14.79
+280,45,Coconut Curry Tof,"Creamy coconut curry with tofu, vegetables, and aromatic spices.",36.37
+281,45,Savory Truffle,Decadent truffle infused dish with rich and savory flavors.,15.66
+282,17,Spicy Avocado S,"Avocado slices lightly dusted with spicy seasoning, perfect for those craving a",41.3
+283,8,Spicy Maple Glazed,Sweet and spicy maple glazed dish with a flavorful kick.,18.43
+284,42,Spicy Maple Glazed,Grilled protein marinated in a spicy maple glaze with a hint of,49.55
+285,7,Crispy Spicy,Crispy Spicy menu item featuring fried chicken coated in a zesty,8.75
+286,17,Oriental Quinoa,Quinoa salad with a fusion of Asian flavors and Oriental spices.,11.83
+287,41,Mango Chili Lime T,Refreshing Mango Chili Lime Tea with a zesty kick of lime and a hint,18.26
+288,40,Spicy Shrimp T,"""Tangy spiced shrimp served with savory seasonings and a zesty",14.41
+289,13,Crispy Avocado,Avocado slices coated in crunchy breadcrumbs and fried to perfection.,18.21
+290,14,Shrimp and Avocado,"A delightful combination of succulent shrimp and ripe avocado, served with a tang",29.21
+291,19,Crispy Bourbon Gl,Crispy Bourbon Gl is a flavorful dish with crispy coating fried to perfection,11.67
+292,22,Beef Bulgogi Bowl,"Korean-inspired Beef Bulgogi Bowl with marinated beef slices, vegetables,",39.19
+293,19,Mango Teriyaki,"Juicy pieces of mango paired with savory teriyaki sauce, creating a",8.52
+294,26,Spicy Mango Shrimp,Juicy shrimp cooked with a spicy mango sauce.,13.75
+295,27,Spicy Seared T,Tender steak seared to perfection with a spicy seasoning.,42.61
+296,18,Spicy Shrimp T,Spicy Shrimp T - Succulent shrimp cooked in a fiery seasoning blend,11.18
+297,15,Beetroot Falaf,Middle Eastern-style falafel made with vibrant beetroot and a blend of,41.3
+298,19,Spicy Mango Shrimp,Delicious shrimp sautéed in a spicy mango sauce.,23.0
+299,24,Spicy Szechuan,Spicy Szechuan dish with bold flavors and fiery chili peppers.,33.23
+300,20,Coconut Curry Shrimp,Juicy shrimp cooked in a rich coconut curry sauce.,30.09
+301,25,Spicy Honey Glazed,Tender chicken coated in a spicy honey glaze.,44.35
+302,21,Mango Tango Chicken Bowl,Succulent grilled chicken served over a bed of fluffy rice and topped with,35.15
+303,29,Spicy Sriracha,"Spicy Sriracha dish featuring grilled shrimp and a bold, tangy",40.66
+304,37,Spicy Mango Shrimp,Juicy shrimp cooked in a spicy mango sauce.,45.2
+305,6,Spinach Artichoke,Creamy spinach and artichoke dip served with crispy tortilla chips for,6.08
+306,3,Spicy Avocado Sh,Shrimp stir-fry with spicy avocado sauce.,19.98
+307,44,Spicy Sriracha,Tender chicken wings coated in a fiery Sriracha sauce for a spicy,37.11
+308,29,Pepperoni Panini,Grilled panini sandwich filled with pepperoni slices and melted cheese.,20.6
+309,44,Spicy Mango Shrimp,Delicious shrimp cooked with spicy mango sauce.,6.32
+310,17,Mango Tango Shrimp,Delicious shrimp dish with tangy mango flavoring.,41.46
+311,31,Savory Potato Panc,Savory potato pancakes served with a savory and crisp exterior.,38.07
+312,28,Beefy Nacho,Spicy ground beef and melted cheese served on a bed of crispy tortilla,20.67
+313,16,Sushi Burrito Bowl,"Sushi Burrito Bowl featuring rice, sashimi-grade fish, fresh",11.19
+314,33,Smoky Maple Glazed,Grilled meat or vegetables coated with a sweet and smoky maple glaze,36.25
+315,10,Coconut Curry Bowl,"Coconut Curry Bowl with aromatic spices, vegetables, and tender protein in a",8.85
+316,13,Avocado Crunch Wrap,Crunchy wrap filled with fresh avocado and a tasty crunch.,36.35
+317,18,Spicy Mango Shrimp,Tantalizing shrimp dish with a spicy mango sauce.,39.92
+318,33,Mango Jalapeño,Refreshing mango-infused salsa with a spicy kick of jalapeño peppers.,6.21
+319,44,Spicy Shrimp T,Succulent shrimp paired with a zesty spicy sauce.,17.64
+320,28,Mango Tango Tacos,Sweet and tangy Mango Tango Tacos with juicy grilled meat and vibrant mango,34.12
+321,23,Spicy Shrimp T,Tender shrimp tossed in a spicy sauce.,36.05
+322,10,Spicy Shrimp T,A flavorful dish featuring spicy shrimp and tantalizing spices.,36.94
+323,12,Spicy Mango Shrimp,Juicy shrimp stir-fried with spicy mango sauce.,42.95
+324,17,Coconut Curry Shrimp,Shrimp cooked in a flavorful coconut curry sauce.,22.82
+325,44,Spicy Miso Ram,Japanese noodle soup with a spicy miso broth and savory ramen toppings,29.16
+326,17,Truffle Parmesan Ris,Creamy risotto infused with truffle essence and garnished with savory Parm,27.74
+327,42,Spicy Shrimp T,Succulent shrimp seasoned with a spicy blend of herbs and served with a,9.21
+328,6,Quinoa Harvest Salad,Nutritious quinoa salad combining fresh harvest vegetables and a zesty dressing,22.71
+329,37,Mango Tango Grilled,Grilled dish featuring a succulent mango salsa infused with a zesty t,13.68
+330,11,Spicy Coconut Shrimp,"Tender shrimp coated in spicy coconut flakes, deep-fried to perfection.",25.29
+331,43,Lemon Pistachio,Refreshing lemon-infused dish with crunchy pistachios for a unique flavor combination,49.67
+332,32,Savory Shrimp,Succulent shrimp cooked with savory herbs and spices.,29.56
+333,18,Spicy Sriracha,Spicy Sriracha wings with a fiery kick and tangy flavor.,26.79
+334,4,Savory Parmesan,Savory Parmesan: A crispy and flavorful chicken dish topped with melted,23.9
+335,36,Spicy Honey Glazed,Tender chicken coated in a spicy honey glaze.,43.58
+336,26,Coconut Shrimp T,"Crispy shrimp coated in shredded coconut, golden fried to perfection.",17.26
+337,19,Mango Tango Chicken Salad,"Refreshing salad with juicy mango, tangy tango dressing, and grilled chicken",26.98
+338,47,Spicy Bahn Mi,"Spicy Bahn Mi: Vietnamese sandwich with savory pork, pickled veggies",35.63
+339,34,Sriracha Shrimp,Spicy Sriracha Shrimp served with a tangy sauce and fresh,18.63
+340,7,Savory Beef St,Flavorful beef stir-fry with a medley of vegetables and savory,47.35
+341,36,Mango Tango Shrimp,Shrimp cooked in a tangy mango sauce with a hint of spice.,24.37
+342,15,Coconut Curry Quinoa,Healthy quinoa dish cooked in a fragrant coconut curry sauce.,12.45
+343,41,Spicy Mango Shrimp,Shrimp cooked in a spicy mango sauce for a sweet and tangy flavor,31.3
+344,30,Crispy Taco Sl,"Crispy taco with seasoned ground beef, fresh lettuce, tomato, and",38.67
+345,34,Spicy Mango Shrimp,Juicy shrimp coated in a spicy mango sauce.,38.83
+346,6,Pineapple Teriy,Grilled pineapple slices served with teriyaki sauce and choice of protein.,48.64
+347,28,Quinoa Mango Salad,"Tropical salad combining quinoa, ripe mango, and fresh greens tossed in",49.56
+348,30,Coconut Curry Crunchwrap,"""Crunchwrap filled with flavorful coconut curry and crispy crunch.""",34.78
+349,12,Lemon Pepper Shrimp,Juicy shrimp seasoned with zesty lemon and piquant pepper.,32.77
+350,19,Spicy Mango Shrimp,Shrimp cooked in a spicy mango sauce.,13.7
+351,38,Spicy Mango Shrimp,Delicious shrimp cooked with a spicy mango sauce.,29.13
+352,44,Coconut Curry Noodle,A fragrant coconut curry noodle dish with vibrant flavors and a hint of,11.6
+353,46,Smoky Maple Glazed,Grilled chicken marinated in a smoky maple glaze.,31.53
+354,26,Spicy Sriracha,A spicy Sriracha-infused dish featuring tender protein and bold flavors.,42.98
+355,3,Spicy Peanut Noodle,Savory noodles tossed in a spicy peanut sauce.,29.87
+356,4,Spicy Shrimp T,Spicy shrimp cooked to perfection with bold flavors and spices.,30.49
+357,50,Crispy Honey Garlic,Crispy Honey Garlic: Juicy chicken wings coated in a sticky-s,19.59
+358,29,Smoky Maple Bacon Wrap,"Savory wrap filled with smoky bacon, maple syrup drizzle,",39.99
+359,42,Coconut Curry Quinoa,A flavorful dish featuring quinoa cooked in a rich coconut curry sauce.,12.0
+360,42,Spicy Sriracha,Spicy Sriracha dish featuring grilled shrimp and a fiery Sriracha,7.08
+361,14,Basil Pesto Salmon,Grilled salmon topped with aromatic basil pesto.,14.57
+362,6,Quinoa Power Bowl,Healthy and hearty quinoa power bowl loaded with nutritious vegetables and protein-packed qu,46.67
+363,1,Mango Tango Chicken Salad,"A vibrant salad featuring succulent mango, tangy salsa, and grilled chicken",11.0
+364,29,Mango Coconut Curry Bowl,A tropical blend of mango and coconut curry served over rice with vegetables.,19.13
+365,13,Szechuan Spiced,Spicy Szechuan spiced dish with a flavorful blend of chili peppers,35.69
+366,6,Tofu Stir-f,Stir-fried tofu with crisp vegetables and savory sauce.,32.44
+367,17,Maple Glazed Salmon,Salmon fillet glazed with maple syrup for a sweet and savory flavor profile,32.58
+368,40,Avocado Ranch Chicken Wrap,Savory chicken wrapped in a tortilla with creamy avocado ranch dressing.,33.93
+369,41,Spicy Shrimp T,Succulent shrimp cooked with a fiery spice blend.,12.75
+370,7,Spicy Mango Tango Sh,A spicy and tangy shrimp dish with a flavorful mango twist.,18.31
+371,5,Spicy Tofu,A flavorful tofu dish with a spicy kick and bold seasoning.,45.06
+372,29,Spicy Miso Ram,Japanese noodle soup with a spicy miso broth.,19.12
+373,14,Coconut Curry Ramen,Savory coconut curry broth over noodles with vegetables and protein of choice in,19.23
+374,17,Spicy Szechuan,"Spicy Szechuan dish featuring tender meat, vibrant vegetables, and a",45.03
+375,39,Pineapple Teriy,Grilled pineapple slices served with teriyaki sauce.,13.47
+376,34,Red Curry Tofu,A flavorful Thai-inspired dish featuring tofu and red curry sauce.,37.55
+377,9,Spicy Tofu,Spicy tofu dish with a flavorful kick and tender tofu chunks.,16.15
+378,24,Parmesan Crusted Salmon,"Salmon fillet coated with savory Parmesan crust, baked to perfection.",43.63
+379,48,Spicy Pineapple Pork,Tender pork infused with spicy pineapple flavors.,41.66
+380,16,Mango Tango Salad,A refreshing salad featuring ripe mango slices tossed in a zesty tangy dressing,48.6
+381,27,Cheesy Bacon Mac Attack,Macaroni noodles smothered in a savory cheese sauce with crispy bacon,39.39
+382,47,Spicy Sriracha,Spicy Sriracha dish featuring grilled chicken wings coated in a fiery Sr,18.86
+383,20,Spicy Tofu,A zesty tofu dish with a fiery kick of spice.,29.56
+384,23,Spicy Tofu,Spicy tofu stir-fry with a flavorful sauce and assorted vegetables.,6.27
+385,30,Coconut Curry Quinoa,"Quinoa cooked in a coconut curry sauce, flavorful and aromatic.",16.69
+386,16,Blueberry Balsamic,"Salad featuring fresh blueberries, mixed greens, feta cheese, and",21.92
+387,12,Teriyaki Tempe,Grilled tempeh marinated in savory teriyaki sauce served with,16.62
+388,49,Savory Maple Gl,Savory Maple Gl features grilled meats drizzled with a delect,25.25
+389,6,Grilled Pineapple Fiesta,Grilled Pineapple Fiesta: Pineapple slices grilled to perfection for a sweet,22.65
+390,1,Quinoa Power Bowl,"Nutritious quinoa bowl packed with protein and fresh veggies, drizz",16.38
+391,41,Coconut Curry Noodle,"Savory noodles in a coconut curry sauce, topped with your choice of",27.0
+392,48,Coconut Curry Quinoa,Quinoa cooked in a coconut curry sauce.,36.92
+393,19,Shrimp Diablo Pasta,Spicy pasta dish featuring succulent shrimp and a fiery Diablo sauce.,29.37
+394,12,"""Spicy Mango Sh","Refreshing salad with ripe mango slices, spicy kick, and a hint of sweetness",25.01
+395,16,Spicy Grilled Sh,A savory seafood dish featuring spicy grilled shrimp seasoned to perfection.,31.46
+396,34,Cheesy Bacon Ranch Pasta,"Creamy pasta dish with crispy bacon, savory ranch seasoning, and melted cheese",25.9
+397,2,Spicy Shrimp T,Spicy shrimp cooked to perfection with a kick of heat.,29.72
+398,49,Spicy Maple Glazed,Tender grilled chicken coated in a spicy maple glaze sauce.,29.8
+399,39,Spicy Shrimp T,Spicy Shrimp T: Succulent shrimp cooked in a fiery spice blend,43.33
+400,6,Grilled Pineapple Ter,Grilled pineapple teriyaki with succulent grilled pineapple slices and a flavorful,31.48
+401,17,Crispy Honey Sr,Crispy Honey Sr is a delightful menu item featuring crunchy fried goodness coated,9.2
+402,32,Spicy Teriyaki,Grilled meats or vegetables coated in a zesty blend of teriyaki,26.44
+403,42,Lemon Garlic Shrimp,Delicious shrimp cooked in a zesty lemon garlic sauce.,47.38
+404,46,Spicy Tempura T,Crispy tempura shrimp with a spicy seasoning.,26.71
+405,3,Maple Glazed Salmon,Grilled salmon fillet with a sweet and sticky maple glaze.,47.84
+406,22,Truffle Mac 'n,Creamy macaroni and cheese infused with earthy truffle flavor.,8.17
+407,3,Spicy Sriracha,Spicy Sriracha dish featuring succulent shrimp and a fiery chili sauce,21.74
+408,45,Smoked Gouda,Sandwich featuring Smoked Gouda cheese layered with savory ham on toasted,41.41
+409,38,Coconut Curry Quinoa,Quinoa dish cooked in aromatic coconut curry sauce.,35.82
+410,31,Mango Tango Salmon,Grilled salmon topped with a zesty mango tango sauce.,33.2
+411,22,Spicy Shrimp T,"Succulent shrimp cooked in a spicy sauce, perfect for seafood lovers.",27.39
+412,42,Spicy Mango Chicken T,Tender chicken cooked in a spicy mango sauce.,15.93
+413,26,Mango Tango Shrimp,Shrimp cooked in a tangy mango-infused sauce.,9.89
+414,4,Spicy Sriracha,Spicy Sriracha menu item featuring juicy grilled shrimp coated in a bold,37.09
+415,18,Spicy Mango Tango Salad,Tangy mango and spicy flavors combine in the refreshing Spicy Mango Tango,27.65
+416,49,Coconut Curry Macaron,Delicious macarons infused with coconut and curry flavors.,13.81
+417,39,Spicy Pineapple Jer,Sweet and spicy pineapple jerky made with a flavorful blend of seasonings.,32.92
+418,1,Savory Tof,Savory tofu stir-fry with a medley of fresh vegetables and,43.71
+419,9,Shrimp Taco Fusion,Tantalizing shrimp tacos with a flavorful fusion twist.,29.12
+420,7,Spicy Pineapple Pul,"Sweet and juicy pineapple chunks mixed with spicy flavors, creating a delicious and unique",32.88
+421,34,Mango Coconut Shrimp,Sweet and savory Mango Coconut Shrimp featuring succulent shrimp coated in a tropical,33.79
+422,23,Spicy Mango Shrimp,Tantalizing spicy shrimp infused with mango flavors.,38.96
+423,23,Spicy Mango Chicken T,Juicy chicken cooked in a spicy mango sauce.,45.78
+424,35,Coconut Curry Ramen,Ramen noodles in a rich coconut curry broth.,10.74
+425,7,Spicy Sriracha,Spicy Sriracha dish featuring bold flavors and a fiery kick.,11.16
+426,8,Savory Pancake,Savory pancakes filled with seasoned ground beef and melted cheese.,31.51
+427,25,Spicy Chipotle Sh,Spicy Chipotle Sh features a savory blend of smoky chipotle peppers,37.09
+428,16,Spicy Maple Glazed,Savory dish featuring a spicy maple glaze that adds a sweet kick,39.09
+429,30,Pesto Chicken Flatbread,Flatbread topped with savory pesto sauce and tender chicken pieces.,27.41
+430,39,Mango Tango Salad,"Refreshing salad featuring juicy mango chunks, tangy tango dressing, and crisp",27.38
+431,26,Szechuan Pineapple,Spicy stir-fried dish featuring tender meat and fresh pineapple with a flavorful,46.36
+432,38,Spicy Mango Shrimp,Shrimp cooked in spicy mango sauce for a delightful tropical twist.,6.27
+433,11,Spicy Honey Glazed,Tender chicken coated in a spicy honey glaze.,10.48
+434,15,Cheesy Bacon Bombshell,Savory bacon and gooey cheese wrapped in a bombshell of delicious,38.29
+435,26,Spicy Macchiato,Spicy Macchiato: A bold espresso drink with a kick of spicy,22.56
+436,38,Spicy Mango Sushi,Sushi rolls filled with spicy tuna and fresh mango for a flavorful twist.,19.94
+437,47,Citrus Glazed Salmon,"Salmon fillet coated in tangy citrus glaze, perfectly grilled for",5.27
+438,44,Savory Spinach,Delicious dish featuring sautéed spinach with garlic and a hint of,35.41
+439,7,Spicy Honey Srir,Chicken dish combining the heat of sriracha with the sweetness of honey for,41.84
+440,31,Spicy Sriracha,"Spicy Sriracha dish featuring grilled chicken, bell peppers, and a",30.97
+441,14,Smoked Honey Glazed,Tender smoked meat coated in a sweet and sticky honey glaze.,14.43
+442,15,Coconut Curry Tacos,Tasty tacos filled with flavorful coconut curry and savory fillings.,46.68
+443,38,Spicy Mango Chicken Wrap,"Spicy Mango Chicken Wrap with juicy chicken, tangy mango, and a",21.7
+444,5,Crispy Bacon Ranch,Crispy bacon paired with tangy ranch dressing for a delightful savory snack,46.62
+445,3,Spicy Pepperoni Nach,"Nachos topped with spicy pepperoni, gooey cheese, and zesty",22.72
+446,29,Mango Tango Shrimp,Succulent shrimp marinated in a zesty mango tango sauce.,13.19
+447,25,Sushi Taco Trio,Sushi Taco Trio: A fusion dish featuring three sushi tacos filled with fresh,36.63
+448,45,Sriracha Shrimp,Spicy Sriracha shrimp served with a zesty sauce.,48.26
+449,8,Smoked Salmon Tacos,"Tasty tacos filled with smoky salmon, fresh veggies, and zesty",30.46
+450,3,Mango Tango Tacos,Savory tacos filled with juicy mango salsa for a tropical twist.,15.72
+451,38,Spicy Sriracha,Savory noodles mixed with spicy Sriracha sauce and succulent shrimp,31.01
+452,7,Avocado Quesad,Mexican quesadilla filled with creamy avocado and gooey melted cheese.,16.15
+453,22,Seafood Risotto Explosion,Creamy risotto bursting with a medley of seafood flavors.,48.63
+454,28,Spicy Mango Salmon Bowl,"Spicy mango salmon bowl featuring grilled salmon, sweet mango, and a kick",12.66
+455,42,Spicy Avocado Smash,Spicy Avocado Smash: Mashed avocado blended with bold spices for a,19.81
+456,32,Spicy Mango Salmon,Grilled salmon topped with a zesty spicy mango sauce.,11.79
+457,23,Cajun Shrimp,Spicy Cajun shrimp cooked with bold flavors and served with a side of,45.95
+458,23,Savory Saus,Grilled sausage with a medley of savory spices and caramelized onions.,19.28
+459,19,Mango Coconut Curry Bowl,Exotic mango coconut curry bowl with aromatic spices and tender protein.,20.94
+460,34,Crunchy Thai Salad,"Refreshing Thai salad with a crunchy mix of vegetables, peanuts, and a tang",19.55
+461,33,Spicy Teriyaki,Savory grilled meat or vegetables coated in a zesty and tangy,19.84
+462,35,Seafood Paradise Pasta,"This dish features a medley of assorted seafood tossed in a savory sauce,",21.07
+463,42,Maple Bacon Pancake,Fluffy pancakes infused with maple syrup and crispy bacon pieces.,9.26
+464,15,Smoky Maple Glazed,Grilled meat with a sweet and smoky maple glaze.,48.73
+465,33,Spicy Mango BBQ T,Grilled chicken marinated in a spicy mango BBQ sauce.,21.42
+466,38,Turmeric Infusion Bowl,A vibrant bowl featuring turmeric-infused ingredients served in a flavorful broth.,12.52
+467,32,Grilled Pineapple Ter,Juicy grilled pineapple slices served with a tasty teriyaki glaze.,7.38
+468,20,Maple Glazed Salmon,Flavorful salmon fillet glazed with a sweet maple coating.,30.44
+469,41,Coconut Curry Quinoa,Quinoa cooked in coconut curry sauce with fragrant spices.,19.07
+470,40,Quinoa Black Bean Bowl,Wholesome quinoa black bean bowl topped with fresh ingredients for a nutritious,11.78
+471,46,Spicy Thai Peanut N,Spicy Thai Peanut N: A flavorful dish with a spicy Thai peanut sauce,43.39
+472,28,Lemon Herb Quinoa,Quinoa infused with zesty lemon and aromatic herbs.,45.11
+473,21,Spicy Mango Chicken Wrap,Tender chicken wrapped in a spicy mango sauce.,17.43
+474,7,Spicy Pineapple Ter,Savory teriyaki dish with a spicy kick and tangy pineapple,17.01
+475,23,Spicy Pineapple Steak,Succulent steak infused with spicy flavors and tangy pineapple.,24.77
+476,48,Spicy Sriracha,Spicy Sriracha wings coated in a fiery sauce for an extra kick,48.48
+477,26,Shrimp Tempura T,Crispy shrimp tempura served with a tangy dipping sauce.,17.6
+478,7,Crunchy Avocado,"Crunchy Avocado: Crispy on the outside, creamy on",31.98
+479,34,Spicy Sriracha,Crispy chicken wings coated in a fiery Sriracha sauce for a,22.98
+480,22,Spicy Shrimp Taco,"Spicy shrimp tacos featuring seasoned shrimp, crunchy slaw, and a z",12.32
+481,33,Spicy Shrimp T,Spicy shrimp plated with a tangy sauce and flavorful seasoning.,43.17
+482,9,Coconut Shrimp Stir,Crispy coconut shrimp stir-fry with a delicious blend of spices and,36.24
+483,1,Spicy Shrimp T,Spicy shrimp tacos with a zesty kick and flavorful seasonings.,11.92
+484,30,Coconut Curry Noodle,Noodles coated in a rich coconut curry sauce with a hint of spice.,12.24
+485,2,Tropical Pineapple Ter,Tropical Pineapple Teriyaki: Grilled chicken smothered in,23.07
+486,46,Spicy Mango Chicken T,Tender chicken cooked in a spicy mango sauce.,22.45
+487,23,Savory Pesto,Pasta dish featuring al dente noodles tossed in a savory pesto sauce,18.77
+488,5,Spicy Shrimp Lingu,Spicy Shrimp Linguine: A flavorful dish featuring succulent shrimp tossed,13.7
+489,1,Spicy Shrimp T,Spicy Shrimp T: Succulent shrimp cooked in a fiery seasoning blend,37.69
+490,40,Shrimp Pesto Pizza,A delicious pizza topped with succulent shrimp and savory pesto sauce.,22.51
+491,35,Coconut Curry Ramen,Asian-inspired ramen noodles in a creamy coconut curry broth.,15.66
+492,17,Spicy Szechuan,Spicy Szechuan dish with fiery peppers and bold flavors.,25.56
+493,28,Spicy Sriracha,Spicy Sriracha wings tossed in a fiery red sauce with a kick,44.95
+494,22,Spicy Mango Chicken T,"Chicken cooked with spicy mango sauce, creating a flavorful and tangy dish.",22.01
+495,40,Chili Mango Shrimp,Shrimp cooked with chili and mango for a sweet and spicy flavor.,27.93
+496,27,Cheesy Brussels Sprout,Brussels sprouts smothered in a rich and gooey cheese sauce,31.44
+497,35,Coconut Curry Shrimp,Coconut Curry Shrimp cooked in a flavorful coconut curry sauce served with white,35.67
+498,46,Maple Bacon Brusch,"A savory appetizer featuring crispy bacon, sweet maple syrup, and toasted bread",17.71
+499,8,Berry Blast Quinoa Salad,Quinoa salad packed with a burst of berries for a refreshing and nutritious meal,20.55
+500,23,Shrimp Tempura T,Crispy shrimp tempura served with a dipping sauce.,9.85
